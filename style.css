@@ -1,0 +1,56 @@
+h2 {
+  color: brown;
+  text-align: center;
+}
+
+.bigmenubox {
+  float: left;
+  clear: both;
+  width: 60%;
+}
+
+.menuphoto > img {
+  float:  right;
+  width: 40%;
+
+}
+
+h3 {
+  color: purple;
+
+}
+
+.ourstorytext{
+  float: right;
+  width: 60%;
+
+}
+
+.ourstoryphoto > img {
+float: left;
+width: 40%;
+}
+
+.eventtext > p {
+  float: left;
+  width: 500px;
+}
+
+.eventphoto > img {
+  float: right;
+  width: 40%;
+
+}
+
+h1 {
+  text-align: center;
+}
+
+.navlist {
+  clear:both;
+  text-align: center;
+}
+.navlist-item {
+  display: inline-block;
+  padding: 15px 25px;
+}
